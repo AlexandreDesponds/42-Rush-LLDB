@@ -1,0 +1,2 @@
+command script import init.py
+command script import import_conf.py

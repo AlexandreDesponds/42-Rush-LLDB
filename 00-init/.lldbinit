@@ -1,0 +1,13 @@
+settings set prompt "(adespond) "
+settings set target.x86-disassembly-flavor intel
+script print "\033[32m      ade        spondad     dadespondad      ades  n  despondade      despon   espon   espond  esponda"
+script print "     dades       spondades   dadespondade   ndadespond  espondades    adespond  espon   espond  espondade"
+script print "     dades       spondadesp  dade    dade  ondad  pond  espo    esp  dade  onda  spond   spon   espondades"
+script print "    ndades       spon   espo  ade          ondad        espondadesp  dad    nda  sponda  spo    espo   desp"
+script print "    nda esp       pon   espo  adespo        ndade       espondades  ndad    ndad spondad spo     spo   desp"
+script print "   ondadespo      pon    spo  adespon          despo    espondade   ndad    ndad spondad spo     spo    esp"
+script print "   ondadespo      pon   espo  adespon           espo    esp          dad    nda  spo dadespo     spo   desp"
+script print "  pond   spon    spon  despo  ade                spon   esp          dad    nda  spo dadespo    espo  adesp"
+script print "  pon     pon   espondadespo  ades    ade  onda  spon   esp          dade  onda  spo  adespo   despondadesp"
+script print "espond   sponda espondadesp  dadespo dade  ondadespon  despon         adespond  espon  despo   despondades"
+script print "espond   sponda espondade    dadespondade  ondadespo   despon          despon   espon   espo   despondad\033[0m"
